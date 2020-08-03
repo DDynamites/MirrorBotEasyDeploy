@@ -14,7 +14,7 @@ class _BotCommands:
         self.StatsCommand = 'stats'
         self.HelpCommand = 'tolong'
         self.LogCommand = 'log'
-        self.CloneCommand = "c"
+        self.CloneCommand = 'c'
         self.WatchCommand = 't'
         self.TarWatchCommand = 'ttar'
 
